@@ -1,0 +1,9 @@
+{
+  "name": "Cave Story - Plantation",
+  "description": "Cave Story Theme made by Pixel (Daisuke Amaya)",
+  "author": "Playz8B1T",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

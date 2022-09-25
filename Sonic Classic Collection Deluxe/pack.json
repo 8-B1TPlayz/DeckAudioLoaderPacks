@@ -1,0 +1,9 @@
+{
+  "name": "Sonic Classic Collection Deluxe",
+  "description": "This adds the beloved Sonic Jam Restored Track in HD, its perfect for those who have owned sonic classic collection on the DS which would feel right at home with your steam deck. Its a banger track too.",
+  "author": "Playz8B1T",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
