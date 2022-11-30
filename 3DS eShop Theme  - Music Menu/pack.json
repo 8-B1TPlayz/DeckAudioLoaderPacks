@@ -1,0 +1,9 @@
+{
+  "name": "3DS eShop Theme",
+  "description": "This adds the beloved eShop Theme music from the Nintendo 3DS as background music while navigating the Steam Shop like the good ol' days of the 3DS eShop.",
+  "author": "Playz8B1T",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
